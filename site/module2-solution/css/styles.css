@@ -61,3 +61,7 @@ div {margin: 10px;}
 	width: 90%;
   }
 }
+
+/*small device only*/
+ @media (max-width: 767px) {
+ }
