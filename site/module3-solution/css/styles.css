@@ -69,6 +69,10 @@ body {
 }
 /* END HEADER */
 
+.row h1 {text-align:center; color:#e1e1e1; margin-top:-10px}
+
+.col-lg-12 {background-color:#cccc99; padding:10px}
+
 /* FOOTER */
 .panel-footer {
   margin-top: 30px;
@@ -134,6 +138,7 @@ body {
 
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
+	background-color:#ccc;
   }
   #collapsable-nav a span { /* Collapsed nav menu glyph */
     font-size: 1em;
